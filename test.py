@@ -6,3 +6,6 @@ def wage_for_day(hr: int, rate: float) -> float:
 
 
 print(wage_for_day(9,250))
+
+
+print("test")
